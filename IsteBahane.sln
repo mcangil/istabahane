@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsteBahane", "IsteBahane\IsteBahane.csproj", "{3F8FECC1-F180-4FC8-85A3-A800FD1C1C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsteBahane.Data", "IsteBahane.Data\IsteBahane.Data.csproj", "{58B22695-18DD-4FD5-A50E-E03B7C63D56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8FECC1-F180-4FC8-85A3-A800FD1C1C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8FECC1-F180-4FC8-85A3-A800FD1C1C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8FECC1-F180-4FC8-85A3-A800FD1C1C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8FECC1-F180-4FC8-85A3-A800FD1C1C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B22695-18DD-4FD5-A50E-E03B7C63D56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B22695-18DD-4FD5-A50E-E03B7C63D56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B22695-18DD-4FD5-A50E-E03B7C63D56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B22695-18DD-4FD5-A50E-E03B7C63D56C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

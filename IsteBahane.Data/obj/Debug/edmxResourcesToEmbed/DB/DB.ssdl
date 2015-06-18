@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IsteBahaneModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Message" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Excuse">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LikeCount" Type="int" Nullable="false" />
+    <Property Name="DislikeCount" Type="int" Nullable="false" />
+    <Property Name="Author" Type="nvarchar" MaxLength="50" />
+    <Property Name="AuthorEmail" Type="nvarchar" MaxLength="150" />
+    <Property Name="ShowCount" Type="int" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime" Nullable="false" />
+    <Property Name="ApproveDate" Type="datetime" />
+    <Property Name="Status" Type="tinyint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ExcuseShowLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ExcuseId" Type="int" Nullable="false" />
+    <Property Name="UserIp" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_ExcuseShowLog_Excuse">
+    <End Role="Excuse" Type="Self.Excuse" Multiplicity="1" />
+    <End Role="ExcuseShowLog" Type="Self.ExcuseShowLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Excuse">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ExcuseShowLog">
+        <PropertyRef Name="ExcuseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="IsteBahaneModelStoreContainer">
+    <EntitySet Name="Contact" EntityType="Self.Contact" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Excuse" EntityType="Self.Excuse" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ExcuseShowLog" EntityType="Self.ExcuseShowLog" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ExcuseShowLog_Excuse" Association="Self.FK_ExcuseShowLog_Excuse">
+      <End Role="Excuse" EntitySet="Excuse" />
+      <End Role="ExcuseShowLog" EntitySet="ExcuseShowLog" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
