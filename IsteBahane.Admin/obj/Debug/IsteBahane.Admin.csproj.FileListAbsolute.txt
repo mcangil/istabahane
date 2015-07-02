@@ -1,0 +1,16 @@
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\IsteBahane.Admin.exe.config
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\IsteBahane.Admin.exe
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\IsteBahane.Admin.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\EntityFramework.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\IsteBahane.Data.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\IsteBahane.Data.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\EntityFramework.xml
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Debug\IsteBahane.Admin.csprojResolveAssemblyReference.cache
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Debug\IsteBahane.Admin.Form1.resources
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Debug\IsteBahane.Admin.Properties.Resources.resources
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Debug\IsteBahane.Admin.csproj.GenerateResource.Cache
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Debug\IsteBahane.Admin.exe
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Debug\IsteBahane.Admin.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Debug\IsteBahane.Admin.Detail.resources

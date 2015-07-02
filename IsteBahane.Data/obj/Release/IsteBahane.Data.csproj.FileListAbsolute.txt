@@ -5,3 +5,10 @@ C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\bin\Release
 C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\bin\Release\EntityFramework.xml
 C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\obj\Release\IsteBahane.Data.dll
 C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\obj\Release\IsteBahane.Data.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Release\IsteBahane.Data.dll.config
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Release\IsteBahane.Data.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Release\IsteBahane.Data.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Release\EntityFramework.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Release\EntityFramework.xml
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\obj\Release\IsteBahane.Data.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\obj\Release\IsteBahane.Data.pdb

@@ -6,3 +6,11 @@ C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\bin\Debug\E
 C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\bin\Debug\EntityFramework.xml
 C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\obj\Debug\IsteBahane.Data.dll
 C:\Users\fehmi.anac\Desktop\Work\Personal\istabahane\IsteBahane.Data\obj\Debug\IsteBahane.Data.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Debug\IsteBahane.Data.dll.config
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Debug\IsteBahane.Data.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Debug\IsteBahane.Data.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Debug\EntityFramework.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\bin\Debug\EntityFramework.xml
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\obj\Debug\IsteBahane.Data.csprojResolveAssemblyReference.cache
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\obj\Debug\IsteBahane.Data.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Data\obj\Debug\IsteBahane.Data.pdb

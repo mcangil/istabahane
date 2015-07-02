@@ -1,0 +1,16 @@
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\IsteBahane.Admin.exe.config
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\IsteBahane.Admin.exe
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\IsteBahane.Admin.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\EntityFramework.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\IsteBahane.Data.dll
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\IsteBahane.Data.pdb
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\EntityFramework.xml
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Release\IsteBahane.Admin.csprojResolveAssemblyReference.cache
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Release\IsteBahane.Admin.Detail.resources
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Release\IsteBahane.Admin.Form1.resources
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Release\IsteBahane.Admin.Properties.Resources.resources
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Release\IsteBahane.Admin.csproj.GenerateResource.Cache
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Release\IsteBahane.Admin.exe
+C:\Users\fehmi.anac\Desktop\Work\Personal\istebahane\IsteBahane.Admin\obj\Release\IsteBahane.Admin.pdb
